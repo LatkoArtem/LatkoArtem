@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=📈%20Hey%20Everyone!%20📊&textBg=false&fontColor=FFFFFF)
-<h1>My social networks</h1
+<h1>My social networks</h1>
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.instagram.com/l.artem.3/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
@@ -41,3 +41,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" alt="scipy" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="scikit" width="45" height="45"/>
 </p>
+
+# Projects
+
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" height="30" align="center">Python</img> | <a href="https://github.com/LatkoArtem/Game-on-Python"><img src="https://img.shields.io/badge/Ninja%20labyrinth%20game-000605?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000605" height="30" align="center"/></a> <a href="https://github.com/LatkoArtem/Python_works/tree/dpr/1/dpr1"><img src="https://img.shields.io/badge/Hangman-000605?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000605" height="30" align="center"/></a> <a href="https://github.com/LatkoArtem/Python_works/tree/dpr/2/dpr2"><img src="https://img.shields.io/badge/Scrabble-000605?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000605" height="30" align="center"/></a>|
