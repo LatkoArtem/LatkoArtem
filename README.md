@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=📈%20Hey%20Everyone!%20📊&textBg=false&fontColor=FFFFFF)
-<h1>My social networks</h1>
+<h2>My social networks</h2>
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.instagram.com/l.artem.3/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
@@ -15,9 +15,13 @@
   </a>
 </div>
 
-<h1>About me</h1>
-<p>I'm a Student🎓 National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”. Applied Mathematics in field of Data Science. Motivated Python developer with a strong foundation in problem-solving, algorithm development, and data manipulation. Experienced in building and optimizing Python-based projects, text-processing applications. Eager to apply technical skills in data analysis, machine learning, and statistical modeling to transition into a Data Science role. Committed to continuous learning and developing expertise in data-driven decision making.</p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><p align="left">
+<h2>About me</h2>
+<p>👋 Hello! I am a student of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", majoring in "Applied Mathematics in Data Science".
+ 
+🔍 I am fascinated by the world of data, machine learning, and algorithms, and I actively participate in all possible projects and activities related to my field.
+
+💡 I am constantly improving my skills in Python, data analysis, and statistical modeling. My goal is to apply the knowledge I have gained to solve real-world problems, as well as develop in the field of Data Science. I am eager to learn and participate in projects that allow me to work with real-world data sets, and I am always open to new opportunities for growth.<p align="left">
+<h2> 🚀 Some Tools I Have Used and Learned</h2><p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
@@ -42,7 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="scikit" width="45" height="45"/>
 </p>
 
-# Projects
+## Projects
 
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
@@ -55,3 +59,6 @@
 <ul>
 <li><a href="https://hilarious-kataifi-39180e.netlify.app">Little Lemon</a>
 </ul>
+
+## 📈My GitHub history
+<a href="https://github.com/LatkoArtem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LatkoArtem&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" /></a> <a href="https://github.com/LatkoArtem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LatkoArtem&layout=compact&theme=radical&hide_border=true&langs_count=7" /></a>
